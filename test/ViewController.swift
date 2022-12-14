@@ -10,13 +10,12 @@ import UIKit
 class ViewController: UIViewController {
     
     let a = "first variable"
+    let b = "second cariable"
     
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        
+        // asdasdasd asd a
     }
-
-
 }
 
