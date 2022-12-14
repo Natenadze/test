@@ -9,10 +9,12 @@ import UIKit
 
 class ViewController: UIViewController {
     
+    let a = "first variable"
+    
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        view.backgroundColor = .red
+        
     }
 
 
